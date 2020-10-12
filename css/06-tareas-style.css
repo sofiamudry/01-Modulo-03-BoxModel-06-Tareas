@@ -1,0 +1,41 @@
+body {
+    background-color: #047ac0;
+}
+
+main {
+    margin: 20px 20px;
+    font-family: 'Roboto';
+}
+
+h2 {
+    color: white;
+    font-weight: 400;
+}
+
+h3 {
+    padding: 11px 0px 4px 14px;
+    margin: 0 auto;
+    font-size: 17px;
+    color: rgb(60, 60, 60);
+}
+
+section {
+    width: 340px;
+    height: 260px;
+    background-color: #e3e5e6;
+    border-radius: 4px;
+}
+
+.first-task, .second-task, .third-task {
+    color: rgb(74, 74, 74);
+    background-color: white;
+    box-shadow: 0px 1px 1px rgb(200, 200, 200);
+    margin: 7px 10px;
+    border-radius: 3px;
+    padding: 10px 20px 10px 10px;
+}
+
+footer {
+    color: rgb(142, 142, 142);
+    padding-left: 12px;
+}
